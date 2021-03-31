@@ -1,6 +1,3 @@
-<h1 align="center">
-  <img src="https://github.com/justin-m-sullivan/justin-m-sullivan/blob/616f0f1ac925f51dc3308ad7f46da5a676e80e54/name.svg" alt="Justin Sullivan" />
-</h1>
 
 ### Hi there 👋
 
